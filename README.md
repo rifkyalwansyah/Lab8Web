@@ -35,6 +35,6 @@ Menjalankan Web Server
    Membuat file hapus.php untuk menghapus data barang berdasarkan id_barang
    ![image](https://github.com/user-attachments/assets/b7e8cb0d-e4c9-491b-ac26-371d0d6f503c)
 
-   Menghapus
+   Menghapus samsung
    ![image](https://github.com/user-attachments/assets/21ff4f3d-9d84-4594-86c6-2cd1755476df)
 
