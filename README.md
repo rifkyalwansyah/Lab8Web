@@ -1,7 +1,7 @@
 #### Tugas Praktikum Pemrograman Web
 
 Buat Folder Proyek
-![image](https://github.com/user-attachments/assets/8a7e3ecf-c757-4f6d-b709-624c237875d8)
+[image](https://github.com/user-attachments/assets/8a7e3ecf-c757-4f6d-b709-624c237875d8)
 
 Menjalankan Web Server 
 ![image](https://github.com/user-attachments/assets/650c6594-a0b3-4009-b6aa-bc97a146e0a5)
